@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8ffa6df5.chunk.css",
+    "main.js": "./static/js/main.5e4353f3.chunk.js",
+    "main.js.map": "./static/js/main.5e4353f3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.56cd5304.js",
+    "runtime-main.js.map": "./static/js/runtime-main.56cd5304.js.map",
+    "static/js/2.f8249377.chunk.js": "./static/js/2.f8249377.chunk.js",
+    "static/js/2.f8249377.chunk.js.map": "./static/js/2.f8249377.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.8ffa6df5.chunk.css.map": "./static/css/main.8ffa6df5.chunk.css.map",
+    "static/js/2.f8249377.chunk.js.LICENSE.txt": "./static/js/2.f8249377.chunk.js.LICENSE.txt",
+    "static/media/Authorization.module.scss": "./static/media/AuthorizationBG.24e442ec.png",
+    "static/media/CharactersList.module.scss": "./static/media/Grid, Layout.7.b638872e.svg",
+    "static/media/TitleWrapper.module.scss": "./static/media/CleareFilter.d8447b69.svg",
+    "static/media/UI.module.scss": "./static/media/PlayVideo.2ba2da5b.svg",
+    "static/media/ElementNull.module.scss": "./static/media/LocationNull.ace07bf5.png",
+    "static/media/Find.module.scss": "./static/media/Search.6ba640cf.svg",
+    "static/media/FilterSort.module.scss": "./static/media/FilterButtonAlfabet.1ce99a69.svg",
+    "static/media/Main.module.scss": "./static/media/image 1.7fe8a130.png",
+    "static/media/CharacterProfile.module.scss": "./static/media/Rectangle 6.5b928b7e.png",
+    "static/media/Navbar.module.scss": "./static/media/location.83be9b63.svg",
+    "static/media/CreateNewAccount.module.scss": "./static/media/clear.822b5ea5.svg",
+    "static/media/Character.module.scss": "./static/media/user.8ea00563.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56cd5304.js",
+    "static/js/2.f8249377.chunk.js",
+    "static/css/main.8ffa6df5.chunk.css",
+    "static/js/main.5e4353f3.chunk.js"
+  ]
+}
